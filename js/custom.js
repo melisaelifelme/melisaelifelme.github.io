@@ -113,8 +113,7 @@ $(document).ready(function () {
 
     baguetteBox.run('.tz-gallery', {
     animation: 'slideIn',
-    noScrollbars: true,
-    async: true
+    noScrollbars: true
 });
 
 
