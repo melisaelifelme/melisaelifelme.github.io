@@ -10,7 +10,7 @@ $(window).load(function () {
         'overflow': 'visible'
     });
 
-    baguetteBox.run('.tz-gallery');
+
 
 })
 
@@ -111,7 +111,11 @@ $(document).ready(function () {
 
     // Contact Form 	
 
-
+    baguetteBox.run('.tz-gallery', {
+    animation: 'slideIn',
+    noScrollbars: true,
+    async: true
+});
 
 
 
