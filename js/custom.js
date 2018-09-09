@@ -85,6 +85,7 @@ $(document).ready(function () {
     //  isotope
     $('#projects').waitForImages(function () {
         var $container = $('.portfolio_container');
+        baguetteBox.run('.tz-gallery');
         $container.isotope({
             filter: '*',
         });
@@ -111,10 +112,10 @@ $(document).ready(function () {
 
     // Contact Form 	
 
-    baguetteBox.run('.tz-gallery');
+    
 
 
-
+    // 
     // validate contact form
     $(function () {
         $('#contact-form').validate({
