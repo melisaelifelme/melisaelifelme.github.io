@@ -111,10 +111,7 @@ $(document).ready(function () {
 
     // Contact Form 	
 
-    baguetteBox.run('.tz-gallery', {
-    animation: 'slideIn',
-    noScrollbars: true
-});
+    baguetteBox.run('.tz-gallery');
 
 
 
