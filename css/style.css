@@ -288,6 +288,18 @@ a.active {
     height: 100vh;
 }
 
+#home h1{
+    padding-bottom: 10px;
+    letter-spacing: 2px;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+#home h3{
+::before;
+    color: #FFFFFF;
+}
+
 .table-cell {
     display: table-cell;
     vertical-align: middle;
