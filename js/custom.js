@@ -80,8 +80,7 @@ $(document).ready(function () {
     // AOS
     AOS.init({
         duration: 1200,
-        once: true,
-        disable: 'mobile'
+        once: false,
     });
 
     //  isotope
