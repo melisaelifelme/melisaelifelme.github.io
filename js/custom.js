@@ -86,7 +86,9 @@ $(document).ready(function () {
     //  isotope
     $('#projects').waitForImages(function () {
         var $container = $('.portfolio_container');
-        baguetteBox.run('.tz-gallery');
+        baguetteBox.run('.tz-gallery', {
+            'overlayBackgroundColor':'rgba(0,0,0,0.9)'
+        });
         $container.isotope({
             filter: '*',
         });
