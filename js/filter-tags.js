@@ -13,7 +13,7 @@
 
         if (tagged[tagName] == null) {            // If object doesn't have tag
           tagged[tagName] = [];                   // Add empty array to object
-        }
+      }
         tagged[tagName].push(img);                // Add the image to the array
       });
     }
@@ -27,7 +27,7 @@
         .addClass('active')                        // Add the class of active
         .siblings()                                // Get its siblings
         .removeClass('active');                    // Remove active from siblings
-      $imgs.hide().show();                 // Show all images
+      $imgs.hide().fadeIn();                 // Show all images
     }
   }).appendTo($buttons);                           // Add to buttons
 
@@ -42,8 +42,8 @@
         $imgs                                      // With all of the images
           .hide()                                  // Hide them
           .filter(tagged[tagName])                 // Find ones with this tag
-          .show();                                // Show just those images
-      }
+          .fadeIn();                                // Show just those images
+        }
     }).appendTo($buttons);                         // Add to the buttons
   });
 
