@@ -863,4 +863,9 @@ button:hover, button.active {
   cursor: pointer;
 }
 
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
 
