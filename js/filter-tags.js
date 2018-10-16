@@ -1,6 +1,6 @@
 (function() {
 
-  var $imgs = $('#gallery img');                  // Store all images
+  var $imgs = $('#gallery a');                  // Store all images
   var $buttons = $('#buttons');                   // Store buttons element
   var tagged = {};                                // Create tagged object
 
@@ -27,7 +27,7 @@
         .addClass('active')                        // Add the class of active
         .siblings()                                // Get its siblings
         .removeClass('active');                    // Remove active from siblings
-      $imgs.hide().fadeIn();                 // Show all images
+      $imgs.hide().slideDown(1250);                 // Show all images
     }
   }).appendTo($buttons);                           // Add to buttons
 
@@ -42,7 +42,7 @@
         $imgs                                      // With all of the images
           .hide()                                  // Hide them
           .filter(tagged[tagName])                 // Find ones with this tag
-          .fadeIn();                                // Show just those images
+          .fadeIn(1250);                                // Show just those images
         }
     }).appendTo($buttons);                         // Add to the buttons
   });
