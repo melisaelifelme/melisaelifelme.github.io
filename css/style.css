@@ -864,7 +864,6 @@ button:hover, button.active {
 }
 
 .col-centered{
-    float: none;
     margin: 0 auto;
 }
 
