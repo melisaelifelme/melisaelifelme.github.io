@@ -27,7 +27,7 @@
         .addClass('active')                        // Add the class of active
         .siblings()                                // Get its siblings
         .removeClass('active');                    // Remove active from siblings
-      $imgs.hide().slideDown(1250);                 // Show all images
+      $imgs.slideUp(500).slideDown(1250);                 // Show all images
     }
   }).appendTo($buttons);                           // Add to buttons
 
