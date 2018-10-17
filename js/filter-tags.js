@@ -27,7 +27,7 @@
         .addClass('active')                        // Add the class of active
         .siblings()                                // Get its siblings
         .removeClass('active');                    // Remove active from siblings
-      $imgs.slideUp(500).slideDown(1250);                 // Show all images
+      $imgs.hide().show();                 // Show all images
     }
   }).appendTo($buttons);                           // Add to buttons
 
@@ -40,9 +40,9 @@
           .siblings()                              // Get its siblings
           .removeClass('active');                  // Remove active from siblings
         $imgs                                      // With all of the images
-          .fadeOut(250)                                  // Hide them
+          .hide()                                  // Hide them
           .filter(tagged[tagName])                 // Find ones with this tag
-          .fadeIn(500);                                // Show just those images
+          .show();                                // Show just those images
         }
     }).appendTo($buttons);                         // Add to the buttons
   });
