@@ -45,7 +45,12 @@ $(document).ready(function () {
         $('img').attr("src","img/bjk/bjk_icon.png");
         $('#home').css('background', 'url(./img/bjk/bjk.jpg)');
         $('#pp').attr("src","img/about-img.jpg");
+        $.stopSound();
         $.playSound('img/bjk/mars.mp3');
+
+        $([document.documentElement, document.body]).animate({
+        scrollTop: $("#home").offset().top
+    }, 2000);
     });
 
     nav.find('a').on('click', function () {

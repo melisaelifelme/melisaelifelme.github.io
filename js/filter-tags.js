@@ -40,9 +40,9 @@
           .siblings()                              // Get its siblings
           .removeClass('active');                  // Remove active from siblings
         $imgs                                      // With all of the images
-          .hide()                                  // Hide them
+          .fadeOut(250)                                  // Hide them
           .filter(tagged[tagName])                 // Find ones with this tag
-          .fadeIn(1250);                                // Show just those images
+          .fadeIn(500);                                // Show just those images
         }
     }).appendTo($buttons);                         // Add to the buttons
   });
