@@ -73,7 +73,7 @@ h4:before {
 h5:before {
     position: absolute;
     width: 10px;
-    left: -15px;
+    left: -20px;
     content: "";
     display: block;
     height: 2px;
@@ -905,6 +905,6 @@ button:hover, button.active {
 }
 
 .experince-item {
-    padding-left:35px;
+    padding-left:40px;
 }
 
