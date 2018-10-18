@@ -52,6 +52,13 @@ h4 {
     font-weight: 700;
 }
 
+h5 {
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 1px;
+    position: relative;
+    font-weight: 500;
+}
+
 h4:before {
     position: absolute;
     width: 30px;
@@ -61,6 +68,17 @@ h4:before {
     height: 2px;
     background: #425BB5;
     top: 9px;
+}
+
+h5:before {
+    position: absolute;
+    width: 10px;
+    left: -15px;
+    content: "";
+    display: block;
+    height: 2px;
+    background: #888;
+    top: 8px;
 }
 
 
@@ -886,4 +904,7 @@ button:hover, button.active {
   opacity: 0;
 }
 
+.experince-item {
+    padding-left:35px;
+}
 
