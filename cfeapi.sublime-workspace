@@ -1,0 +1,930 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Up",
+				"UpdateModel\tclass"
+			],
+			[
+				"up",
+				"upload_update_image\tfunction"
+			],
+			[
+				"se",
+				"settings\tmodule"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"slide",
+				"slideUp\t.slideUp()"
+			],
+			[
+				"fade",
+				"fadeOut\t.fadeOut()"
+			],
+			[
+				"nx",
+				"netwrokx"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"en",
+				"encoding\tparam"
+			],
+			[
+				"re",
+				"readline\tfunction"
+			],
+			[
+				"e",
+				"encoding\tparam"
+			],
+			[
+				"wr",
+				"writelines\tfunction"
+			],
+			[
+				"fro",
+				"from_encoding\tparam"
+			],
+			[
+				"l",
+				"link\tparam"
+			],
+			[
+				"lin",
+				"links\tstatement"
+			],
+			[
+				"pro",
+				"projects"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"ex",
+				"example_measures\tstatement"
+			],
+			[
+				"d",
+				"drop\tfunction"
+			],
+			[
+				"y",
+				"y_train\tstatement"
+			],
+			[
+				"X",
+				"X_train\tstatement"
+			],
+			[
+				"K",
+				"KNeighborsClassifier\tclass"
+			],
+			[
+				"cr",
+				"cross_validation\tmodule"
+			],
+			[
+				"item",
+				"item_enum\tstatement"
+			],
+			[
+				"sel",
+				"selectFile\tfunction"
+			],
+			[
+				"do",
+				"doneLines\tstatement"
+			],
+			[
+				"to",
+				"todoLines\tstatement"
+			],
+			[
+				"todo",
+				"todoFile\tstatement"
+			],
+			[
+				"lis",
+				"listDone\tfunction"
+			],
+			[
+				"read",
+				"readDone\tfunction"
+			],
+			[
+				"Exc",
+				"Executable\tclass"
+			],
+			[
+				"a",
+				"append\tfunction"
+			],
+			[
+				"mat",
+				"matplotlib\tmodule"
+			],
+			[
+				"li",
+				"line"
+			],
+			[
+				"bes",
+				"best_fit_line\tfunction"
+			],
+			[
+				"pl",
+				"plot\tfunction"
+			],
+			[
+				"sca",
+				"scatter\tfunction"
+			],
+			[
+				"sele",
+				"selectFile\tfunction"
+			],
+			[
+				"in",
+				"inpt\tstatement"
+			],
+			[
+				"pr",
+				"print\tfunction"
+			],
+			[
+				"for",
+				"format\tfunction"
+			],
+			[
+				"done",
+				"doneFile\tstatement"
+			],
+			[
+				"doe",
+				"doneFile\tstatement"
+			],
+			[
+				"w",
+				"write\tfunction"
+			],
+			[
+				"sys",
+				"system\tfunction"
+			],
+			[
+				"s",
+				"system\tfunction"
+			],
+			[
+				"lsi",
+				"listToDo\tfunction"
+			],
+			[
+				"tr",
+				"try\tTry/Except/Else"
+			],
+			[
+				"rena",
+				"rename\tfunction"
+			],
+			[
+				"fi",
+				"files\tstatement"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"bo",
+				"bootstrap"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"get",
+				"get_object_or_404\tmodule"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"po",
+				"portfolio"
+			],
+			[
+				"len",
+				"length\tstatement"
+			],
+			[
+				"f",
+				"for\tFor Loop"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Tayyip/Desktop/GIT Repositories/Django/cfeapi/updates/models.py",
+			"settings":
+			{
+				"buffer_size": 616,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "from django.contrib import admin\nfrom .models import Update as UpdateModel\n# Register your models here.\n\nadmin.site.register(UpdateModel)\n\n",
+			"file": "/C/Users/Tayyip/Desktop/GIT Repositories/Django/cfeapi/updates/admin.py",
+			"file_size": 143,
+			"file_write_time": 131847931629625276,
+			"settings":
+			{
+				"buffer_size": 139,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Tayyip/Desktop/GIT Repositories/Django/cfeapi/cfeapi/settings.py",
+			"settings":
+			{
+				"buffer_size": 3103,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Tayyip/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 30,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Tayyip/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 21435,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add All"
+			],
+			[
+				"git p",
+				"Git: Push"
+			],
+			[
+				"git a",
+				"Git: Add All"
+			],
+			[
+				"co",
+				"Git: Commit"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git check",
+				"Git: Checkout Tag"
+			],
+			[
+				"git che",
+				"Git: Checkout Current File"
+			],
+			[
+				"pu",
+				"Git: Push"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"ad",
+				"Git: Add All"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"comi",
+				"Git: Commit"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git",
+				"Git: Diff Current File"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"git pul",
+				"Git: Pull"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"terminus",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"Terminus",
+				"Preferences: Terminus Key Bindings"
+			],
+			[
+				"Termi",
+				"Terminal: Open"
+			],
+			[
+				"Package Control:",
+				"Package Control: List Packages"
+			],
+			[
+				"termi",
+				"Terminal: Open"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 158.0,
+		"history":
+		[
+			"print(sys.path)",
+			"import sys",
+			"exit",
+			"print(\"Deneme\")",
+			"sublime.info()",
+			"info()",
+			"exit()",
+			"exit",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Tayyip/Desktop/GIT Repositories/Django/cfeapi",
+		"/C/Users/Tayyip/Desktop/GIT Repositories/Django/cfeapi/cfeapi",
+		"/C/Users/Tayyip/Desktop/GIT Repositories/Django/cfeapi/updates"
+	],
+	"file_history":
+	[
+		"/C/Users/Tayyip/Desktop/GIT Repositories/Django/cfeapi/manage.py",
+		"/C/Users/Tayyip/Desktop/GIT Repositories/melisaelifelme.github.io/css/style.css",
+		"/C/Users/Tayyip/Desktop/GIT Repositories/melisaelifelme.github.io/js/filter-tags.js",
+		"/C/Users/Tayyip/Desktop/GIT Repositories/melisaelifelme.github.io/index.html",
+		"/C/Users/Tayyip/Desktop/GIT Repositories/melisaelifelme.github.io/js/custom.js",
+		"/C/Users/Tayyip/Desktop/filter-tags.js",
+		"/C/Users/Tayyip/Desktop/style.css",
+		"/C/Users/Tayyip/Desktop/graph/deneme.json",
+		"/C/Users/Tayyip/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Tayyip/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/C/Users/Tayyip/Desktop/melisaelifelme.github.io/js/custom.js",
+		"/C/Users/Tayyip/Desktop/nazım_hikmet_siirler/21-1-924.txt",
+		"/C/Users/Tayyip/Desktop/nazım_hikmet_siirler/data.txt",
+		"/C/Users/Tayyip/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/C/Users/Tayyip/Desktop/nazım_hikmet_siirler/temp",
+		"/C/Users/Tayyip/Desktop/nazım_hikmet_siirler/deneme.txt",
+		"/C/Users/Tayyip/Desktop/nazım_hikmet_l.tcl",
+		"/C/Users/Tayyip/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/C/Users/Tayyip/Desktop/tayyipgoren.github.io/assets/css/bootstrap.css",
+		"/C/Users/Tayyip/Desktop/melisaelifelme.github.io/js/gtag.js",
+		"/C/Users/Tayyip/Desktop/melisaelifelme.github.io/css/style.css",
+		"/C/Users/Tayyip/Desktop/melisa-portfolio/index.html",
+		"/C/Users/Tayyip/Desktop/melisa-portfolio/css/style.css",
+		"/C/Users/Tayyip/Desktop/melisa-portfolio/js/custom.js",
+		"/C/Users/Tayyip/Desktop/melisa-portfolio/process.php",
+		"/C/Users/Tayyip/Desktop/melisa website/process.php",
+		"/C/Users/Tayyip/Desktop/melisa website/css/animate.min.css",
+		"/C/Users/Tayyip/Desktop/melisa website/css/style.css",
+		"/C/Users/Tayyip/Desktop/melisa website/js/bootstrap.min.js",
+		"/C/Users/Tayyip/Desktop/sentdex/breast-cancer-wisconsin.data",
+		"/C/Users/Tayyip/Desktop/PyTo-Do/README.md",
+		"/C/Users/Tayyip/Desktop/PyTo-Do/todo/Leyla İle Mecnun.txt",
+		"/C/Users/Tayyip/Desktop/PyTo-Do/done/Leyla İle Mecnun.txt",
+		"/C/Users/Tayyip/Desktop/PyTo-Do/requirements.txt",
+		"/C/Users/Tayyip/Desktop/PyTo-Do/to_exe.bat",
+		"/C/Users/Tayyip/Desktop/PyTo-Do/.gitignore",
+		"/C/Users/Tayyip/Desktop/ensad.py",
+		"/C/Users/Tayyip/Desktop/example.py",
+		"/C/Users/Tayyip/Desktop/capsboro.py",
+		"/C/Users/Tayyip/Desktop/sentdex/regresyon.py",
+		"/C/Users/Tayyip/Desktop/sentdex/regression.py",
+		"/C/Users/Tayyip/Desktop/PyTo-Do/req.txt",
+		"/C/Users/Tayyip/Desktop/PyTo-Do/main.py",
+		"/C/Users/Tayyip/Desktop/PyTo-Do/done.txt",
+		"/C/Users/Tayyip/Desktop/PyTo-Do/HomePage.md",
+		"/C/Users/Tayyip/Desktop/PyTo-Do/2018-08-26.md",
+		"/C/Users/Tayyip/Desktop/PyTo-Do/todo.txt",
+		"/C/Users/Tayyip/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/Tayyip/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/Tayyip/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Tayyip/Desktop/Django/portfolio-project/jobs/admin.py",
+		"/C/Users/Tayyip/Desktop/Django/portfolio-project/jobs/models.py",
+		"/C/Users/Tayyip/Desktop/Django/portfolio-project/jobs/views.py",
+		"/C/Users/Tayyip/Desktop/Django/portfolio-project/jobs/apps.py",
+		"/C/Users/Tayyip/Desktop/Django/portfolio-project/home/views.py",
+		"/C/Users/Tayyip/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/Tayyip/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/Tayyip/Desktop/Django/portfolio-project/media/images/Screenshot_4.png",
+		"/C/Users/Tayyip/Desktop/Django/portfolio-project/home/models.py",
+		"/C/Users/Tayyip/Desktop/Django/portfolio-project/blog/migrations/0001_initial.py",
+		"/C/Users/Tayyip/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+		"/C/Users/Tayyip/Desktop/Django/portfolio-project/static/admin/js/vendor/select2/i18n/de.js",
+		"/C/Users/Tayyip/Desktop/Django/portfolio-project/static/admin/img/icon-deletelink.svg",
+		"/C/Users/Tayyip/Desktop/Django/portfolio-project/req.txt",
+		"/C/Users/Tayyip/Desktop/tayyipgoren.github.io/assets/css/style.css",
+		"/C/Users/Tayyip/Desktop/tayyipgoren.github.io/index.html",
+		"/C/Users/Tayyip/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/D/Make 3000 and 4000 Series INSTALL PACKAGE Folder - yusuftahirs/Offline/www.ps3xploit.com/flash_rco_replacer/ps3xploit_v30.js",
+		"/C/Users/Tayyip/Desktop/Django/portfolio-project/blog/views.py",
+		"/C/Users/Tayyip/Desktop/Django/portfolio-project/portfolio/static/css/style.css",
+		"/C/Users/Tayyip/Desktop/Django/portfolio-project/static/css/style.css",
+		"/C/Users/Tayyip/Desktop/Django/portfolio-project/blog/templates/blog/blog.html",
+		"/C/Users/Tayyip/Desktop/Django/portfolio-project/blog/templates/blog/allblogs.html",
+		"/C/Users/Tayyip/Desktop/Django/portfolio-project/blog/urls.py",
+		"/C/Users/Tayyip/Desktop/Django/portfolio-project/static/css/bootstrap.css",
+		"/C/Users/Tayyip/Desktop/Django/portfolio-project/portfolio/templates/base.html",
+		"/C/Users/Tayyip/Desktop/Django/portfolio-project/blog/templates/blog/tag.html",
+		"/C/Users/Tayyip/Desktop/Django/portfolio-project/blog/models.py",
+		"/C/Users/Tayyip/Desktop/Django/portfolio-project/home/templates/home/home.html",
+		"/C/Users/Tayyip/Desktop/Django/portfolio-project/portfolio/static/css/bootstrap.css",
+		"/C/Users/Tayyip/Desktop/Django/portfolio-project/home/templates/home/about.html",
+		"/C/Users/Tayyip/Desktop/Django/portfolio-project/.gitignore",
+		"/C/Users/Tayyip/Desktop/Django/portfolio-project/portfolio/urls.py",
+		"/C/Users/Tayyip/Desktop/Django/portfolio-project/portfolio/settings.py",
+		"/C/Users/Tayyip/Desktop/Django/portfolio-project/home/admin.py",
+		"/C/Users/Tayyip/Desktop/Django/portfolio-project/home/templates/home/skills.html",
+		"/C/Users/Tayyip/Desktop/Django/portfolio-project/home/urls.py",
+		"/C/Users/Tayyip/Desktop/Django/portfolio-project/portfolio/views.py",
+		"/C/Users/Tayyip/Desktop/Django/producthunt-project/products/templates/products/create.html",
+		"/C/Users/Tayyip/Desktop/Django/producthunt-project/products/urls.py",
+		"/C/Users/Tayyip/Desktop/Django/producthunt-project/products/views.py",
+		"/C/Users/Tayyip/Desktop/Django/producthunt-project/accounts/templates/accounts/signup.html",
+		"/C/Users/Tayyip/Desktop/Django/producthunt-project/accounts/views.py",
+		"/C/Users/Tayyip/Desktop/Django/producthunt-project/accounts/templates/accounts/login.html",
+		"/C/Users/Tayyip/Desktop/Django/producthunt-project/producthunt/templates/base.html",
+		"/C/Users/Tayyip/Desktop/Django/producthunt-project/products/models.py",
+		"/C/Users/Tayyip/Desktop/Django/producthunt-project/products/admin.py",
+		"/C/Users/Tayyip/Desktop/Django/producthunt-project/producthunt/urls.py",
+		"/C/Users/Tayyip/Desktop/Django/producthunt-project/accounts/urls.py",
+		"/C/Users/Tayyip/Desktop/Django/producthunt-project/producthunt/settings.py",
+		"/C/Users/Tayyip/Desktop/Django/producthunt-project/products/templates/products/home.html",
+		"/C/Users/Tayyip/Desktop/Django/portfolio-project/jobs/templates/jobs/home.html",
+		"/C/Users/Tayyip/Desktop/Django/portfolio-project/blog/admin.py",
+		"/C/Users/Tayyip/Desktop/Django/portfolio/.gitignore",
+		"/C/Users/Tayyip/Desktop/Django/wordcount-project/templates/about.html",
+		"/C/Users/Tayyip/Desktop/Django/wordcount-project/templates/home.html",
+		"/C/Users/Tayyip/Desktop/Django/wordcount/wordcount/settings.py",
+		"/C/Users/Tayyip/Desktop/Tensorflow-Bootcamp-master/07-Reinforcement-Learning-OpenAI/04-Basic-Gym-NN.py",
+		"/C/Users/Tayyip/Desktop/Tensorflow-Bootcamp-master/07-Reinforcement-Learning-OpenAI/02-Gym-Env-Basics.py",
+		"/C/Users/Tayyip/AppData/Roaming/Sublime Text 3/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+		"/C/Users/Tayyip/Desktop/Tensorflow-Bootcamp-master/07-Reinforcement-Learning-OpenAI/00-testgym.py",
+		"/C/Users/Tayyip/Desktop/Tensorflow-Bootcamp-master/07-Reinforcement-Learning-OpenAI/01-Introduction-to-OpenAI.py",
+		"/C/Users/Tayyip/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 135.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Tayyip/Desktop/GIT Repositories/Django/cfeapi/updates/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 616,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								501,
+								501
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Tayyip/Desktop/GIT Repositories/Django/cfeapi/updates/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 139,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								139,
+								139
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Tayyip/Desktop/GIT Repositories/Django/cfeapi/cfeapi/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3103,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1079,
+								1079
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 575.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Tayyip/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28,
+								28
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/Tayyip/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21435,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 224.0
+	},
+	"output.exec":
+	{
+		"height": 143.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 166.0
+	},
+	"pinned_build_system": "",
+	"project": "cfeapi.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"de",
+				"static\\admin\\img\\icon-deletelink.svg"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
