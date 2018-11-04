@@ -50,7 +50,22 @@ $(document).ready(function () {
 
         $([document.documentElement, document.body]).animate({
         scrollTop: $("#home").offset().top
-    }, 2000);
+        }, 2000);
+    });
+
+    $("#tayyip").click(function() {
+        alert(`
+            Sayın Melisa hanım şahsım olarak sizden hoşlanmaktayım.
+
+            Eğer sizde aynı hisleri paylaşıyor iseniz, lütfen şahsıma belirtiniz.
+
+            Aksi takdirde bu mesajı görmemiş olarak konuşmaya devam etmenizi rica ederim.
+
+            - Tayyip Gören
+            `);
+        $([document.documentElement, document.body]).animate({
+        scrollTop: $("#home").offset().top
+        }, 2000);
     });
 
     nav.find('a').on('click', function () {
@@ -79,7 +94,7 @@ $(document).ready(function () {
         }
     });
 
-   
+
     // Parallax
     var parallax = function () {
         $(window).stellar();
