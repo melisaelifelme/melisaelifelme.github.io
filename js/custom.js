@@ -41,7 +41,7 @@ $(document).ready(function () {
         });
     });
 
-    $('#footer_date').click(function() {
+    $('#tayyip').click(function() {
         $('img').attr("src","img/bjk/bjk_icon.png");
         $('#home').css('background', 'url(./img/bjk/bjk.jpg)');
         $('#pp').attr("src","img/about-img.jpg");
